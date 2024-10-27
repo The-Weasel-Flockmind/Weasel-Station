@@ -18,10 +18,7 @@ jobs:
         uses: Ana06/get-changed-files@v2.3.0
         with:
           format: 'space-delimited'
-          filter: | 
-            **.rsi
-            **.png
-
+          
       - name: Diff changed RSIs
         id: diff
         uses: space-wizards/RSIDiffBot@v1.1
