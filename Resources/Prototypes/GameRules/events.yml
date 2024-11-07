@@ -32,7 +32,7 @@
     - id: DragonSpawn
     - id: KingRatMigration
     - id: NinjaSpawn
-    - id: Spawn
+    - id: RevenantSpawn
     - id: SleeperAgents
     - id: ZombieOutbreak
     - id: LoneOpsSpawn
@@ -269,7 +269,7 @@
   components:
   - type: StationEvent
     earliestStart: 15
-    : 15
+    minimumPlayers: 15
     weight: 7
     duration: 240
   - type: KudzuGrowthRule
@@ -327,7 +327,7 @@
     startAudio:
       path: /Audio/Announcements/attention.ogg
     earliestStart: 15
-    : 15
+    minimumPlayers: 15
     weight: 5
     duration: 60
   - type: VentClogRule
