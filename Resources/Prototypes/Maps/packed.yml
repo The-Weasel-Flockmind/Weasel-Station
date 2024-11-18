@@ -2,8 +2,8 @@
   id: Packed
   mapName: 'Packed'
   mapPath: /Maps/packed.yml
-  minPlayers: 1 # Weasel Station, originally was 7.
-  maxPlayers: 35
+  minPlayers: 4 # Weasel Station, originally was 7.
+  maxPlayers: 20 # Weasel Station, originally was 35.
   stations:
     Packed:
       stationProto: StandardNanotrasenStation

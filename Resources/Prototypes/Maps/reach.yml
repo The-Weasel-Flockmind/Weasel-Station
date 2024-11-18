@@ -3,7 +3,7 @@
   mapName: 'Reach'
   mapPath: /Maps/reach.yml
   minPlayers: 0
-  maxPlayers: 2 # Changed for Weaselstation
+  maxPlayers: 4 # Weasel Station, originally was 7.
   stations:
     Reach:
       stationProto: StandardNanotrasenStation
