@@ -16,7 +16,7 @@ Space Station 14's [docs site](https://docs.spacestation14.io/) has documentatio
 
 ## Contributing
 
-We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/Weasel-Station/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
+We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/The-Weasel-Flockmind/Weasel-Station/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
 While Weasel Station doesn't use the [contribution guidelines,](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) you can feel free to if you want to check your stuff.
 
 We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
