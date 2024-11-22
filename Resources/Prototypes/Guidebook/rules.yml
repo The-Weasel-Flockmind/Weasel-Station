@@ -4,16 +4,6 @@
   ruleEntry: true
   text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
 
-<<<<<<< HEAD
-- type: guideEntry
-  id: StandardRuleset
-  name: guide-entry-rules-lrp
-  ruleEntry: true
-  priority: 0
-  text: "/ServerInfo/Guidebook/ServerRules/WeaselRules.xml"
-
-=======
->>>>>>> parent of 3ea28d23f0 (Update rules.yml)
 - type: guideEntry
   id: CoreRuleset
   name: guide-entry-rules-core-only
@@ -21,12 +11,12 @@
   priority: 0
   text: "/ServerInfo/Guidebook/ServerRules/WizDenCoreOnlyRules.xml"
 
-#- type: guideEntry
-#  id: StandardRuleset
-#  name: guide-entry-rules-lrp
-#  ruleEntry: true
-#  priority: 5
-#  text: "/ServerInfo/Guidebook/ServerRules/WizDenLRPRules.xml"
+- type: guideEntry
+  id: StandardRuleset
+  name: guide-entry-rules-lrp
+  ruleEntry: true
+  priority: 5
+  text: "/ServerInfo/Guidebook/ServerRules/WizDenLRPRules.xml"
 
 - type: guideEntry
   id: MRPRuleset
