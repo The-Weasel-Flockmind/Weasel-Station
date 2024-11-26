@@ -1,0 +1,126 @@
+- type: guideEntry
+  id: WeaselstationRuleset
+  name: guide-entry-rules
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
+  
+- type: guideEntry
+  id: RuleWS0
+  name: guide-entry-ws-rules
+  ruleEntry: true
+  priority: 0
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS0.xml"
+
+- type: guideEntry
+  id: RuleWS1
+  name: guide-entry-ws-rule-1
+  ruleEntry: true
+  priority: 1
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS1.xml"
+
+- type: guideEntry
+  id: RuleWS2
+  name: guide-entry-ws-rule-2
+  ruleEntry: true
+  priority: 2
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS2.xml"
+
+- type: guideEntry
+  id: RuleWS3
+  name: guide-entry-ws-rule-3
+  ruleEntry: true
+  priority: 3
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS3.xml"
+
+- type: guideEntry
+  id: RuleWS4
+  name: guide-entry-ws-rule-4
+  ruleEntry: true
+  priority: 4
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS4.xml"
+
+- type: guideEntry
+  id: RuleWS5
+  name: guide-entry-ws-rule-5
+  ruleEntry: true
+  priority: 5
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS5.xml"
+
+- type: guideEntry
+  id: RuleWS6
+  name: guide-entry-ws-rule-6
+  ruleEntry: true
+  priority: 6
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS6.xml"
+
+- type: guideEntry
+  id: RuleWS7
+  name: guide-entry-ws-rule-7
+  ruleEntry: true
+  priority: 7
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS7.xml"
+
+- type: guideEntry
+  id: RuleWS8
+  name: guide-entry-ws-rule-8
+  ruleEntry: true
+  priority: 8
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS8.xml"
+
+- type: guideEntry
+  id: RuleWS9
+  name: guide-entry-ws-rule-9
+  ruleEntry: true
+  priority: 9
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS9.xml"
+  
+- type: guideEntry
+  id: RuleWS10
+  name: guide-entry-ws-rule-10
+  ruleEntry: true
+  priority: 10
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/CoreRules/RuleWS10.xml"
+  
+- type: guideEntry
+  id: RuleWSRP1
+  name: guide-entry-ws-rule-3-1
+  ruleEntry: true
+  priority: 1
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP1.xml"
+
+- type: guideEntry
+  id: RuleWSRP2
+  name: guide-entry-ws-rule-3-2
+  ruleEntry: true
+  priority: 2
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP2.xml"
+
+
+- type: guideEntry
+  id: RuleWSRP3
+  name: guide-entry-ws-rule-3-3
+  ruleEntry: true
+  priority: 3
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP3.xml"
+
+- type: guideEntry
+  id: RuleWSRP4
+  name: guide-entry-ws-rule-3-4
+  ruleEntry: true
+  priority: 4
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP4.xml"
+
+- type: guideEntry
+  id: RuleWSRP5
+  name: guide-entry-ws-rule-3-5
+  ruleEntry: true
+  priority: 5
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP5.xml"
+
+
+- type: guideEntry
+  id: RuleWSRP6
+  name: guide-entry-ws-rule-3-6
+  ruleEntry: true
+  priority: 6
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP6.xml"
