@@ -86,14 +86,14 @@
   name: guide-entry-ws-rule-3-1
   ruleEntry: true
   priority: 1
-  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP1.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP1.xml"
 
 - type: guideEntry
   id: RuleWSRP2
   name: guide-entry-ws-rule-3-2
   ruleEntry: true
   priority: 2
-  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP2.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP2.xml"
 
 
 - type: guideEntry
@@ -101,21 +101,21 @@
   name: guide-entry-ws-rule-3-3
   ruleEntry: true
   priority: 3
-  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP3.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP3.xml"
 
 - type: guideEntry
   id: RuleWSRP4
   name: guide-entry-ws-rule-3-4
   ruleEntry: true
   priority: 4
-  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP4.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP4.xml"
 
 - type: guideEntry
   id: RuleWSRP5
   name: guide-entry-ws-rule-3-5
   ruleEntry: true
   priority: 5
-  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP5.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP5.xml"
 
 
 - type: guideEntry
@@ -123,4 +123,4 @@
   name: guide-entry-ws-rule-3-6
   ruleEntry: true
   priority: 6
-  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RolePlayRules/RuleWSRP6.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP6.xml"
