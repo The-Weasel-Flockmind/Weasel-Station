@@ -144,3 +144,15 @@
   ruleEntry: true
   priority: 9
   text: "/ServerInfo/Guidebook/ServerRules/RulesWS/RoleplayRules/RuleWSRP9.xml"
+
+- type: guideEntry
+  id: WeaselstationSiliconPolicy
+  name: guide-entry-ws-rules-spolicy
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/WeaselstationPolicySilicon.xml"
+
+- type: guideEntry
+  id: WeaselstationCommandPolicy
+  name: guide-entry-ws-rules-cpolicy
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/WeaselstationPolicySecurityCommand.xml"
