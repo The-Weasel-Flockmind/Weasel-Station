@@ -202,9 +202,7 @@
     stealGroup: CargoShuttleConsoleCircuitboard
 
 - type: entity
-<<<<<<< HEAD
   parent: BaseComputerAiAccess
-=======
   parent: BaseComputerShuttle
   id: ComputerShuttleSalvage
   name: salvage shuttle console
@@ -236,7 +234,6 @@
 
 - type: entity
   parent: BaseComputer
->>>>>>> parent of c88666c66e (Salvage Equipment Rebalance [Reclaimer Removal] (#31333))
   id: ComputerIFF
   name: IFF computer
   description: Allows you to control the IFF characteristics of this vessel.
