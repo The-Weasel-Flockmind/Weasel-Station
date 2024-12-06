@@ -202,7 +202,41 @@
     stealGroup: CargoShuttleConsoleCircuitboard
 
 - type: entity
+<<<<<<< HEAD
   parent: BaseComputerAiAccess
+=======
+  parent: BaseComputerShuttle
+  id: ComputerShuttleSalvage
+  name: salvage shuttle console
+  description: Used to pilot the salvage shuttle.
+  components:
+    - type: Sprite
+      layers:
+        - map: ["computerLayerBody"]
+          state: computer
+        - map: ["computerLayerKeyboard"]
+          state: generic_keyboard
+        - map: ["computerLayerScreen"]
+          state: shuttle
+        - map: ["computerLayerKeys"]
+          state: generic_keys
+    - type: DroneConsole
+      components:
+        - type: SalvageShuttle
+    - type: RadarConsole
+      maxRange: 256
+    - type: PointLight
+      radius: 1.5
+      energy: 1.6
+      color: "#43ccb5"
+    - type: Computer
+      board: SalvageShuttleConsoleCircuitboard
+    - type: StealTarget
+      stealGroup: SalvageShuttleConsoleCircuitboard
+
+- type: entity
+  parent: BaseComputer
+>>>>>>> parent of c88666c66e (Salvage Equipment Rebalance [Reclaimer Removal] (#31333))
   id: ComputerIFF
   name: IFF computer
   description: Allows you to control the IFF characteristics of this vessel.
