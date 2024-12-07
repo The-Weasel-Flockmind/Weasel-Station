@@ -17,11 +17,8 @@
     - id: RubberStampApproved
     - id: RubberStampDenied
     - id: RubberStampQm
-<<<<<<< HEAD
     - id: AstroNavCartridge
-=======
     - id: SalvageShuttleConsoleCircuitboard
->>>>>>> parent of c88666c66e (Salvage Equipment Rebalance [Reclaimer Removal] (#31333))
 
 - type: entity
   id: LockerQuarterMasterFilled
