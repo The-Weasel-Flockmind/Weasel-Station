@@ -19,3 +19,5 @@ guide-entry-ws-rule-r6 = Rule WSR6
 guide-entry-ws-rule-r7 = Rule WSR7
 guide-entry-ws-rule-r8 = Rule WSR8
 guide-entry-ws-rule-r9 = Rule WSR9
+guide-entry-ws-rules-spolicy = Silicon Policy
+guide-entry-ws-rules-rpolicy = Command/Security Policy
