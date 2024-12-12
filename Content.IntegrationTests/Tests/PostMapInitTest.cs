@@ -62,8 +62,12 @@ namespace Content.IntegrationTests.Tests
             "Train",
             "Oasis",
             "Cog",
+<<<<<<< HEAD
             "Uoui", // Weaselstation
             "Pact" // Weaselstation
+=======
+            "Amber"
+>>>>>>> 67d444feb0b47b63a54221a7124e2277a214972f
         };
 
         /// <summary>
