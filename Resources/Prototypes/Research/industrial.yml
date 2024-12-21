@@ -11,9 +11,10 @@
   cost: 7500
   recipeUnlocks:
   - MiningDrill
-  - MineralScannerEmpty
+  # - MineralScannerEmpty // Weaselstation - Added to the Salvage Vendor by default
   - OreProcessorIndustrialMachineCircuitboard
   - ClothingMaskWeldingGas
+  - ClothingShoesBootsJump
 
 - type: technology
   id: SpaceScanning
