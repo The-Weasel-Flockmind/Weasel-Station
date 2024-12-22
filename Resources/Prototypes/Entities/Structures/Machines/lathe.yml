@@ -353,6 +353,7 @@
       - FauxTileAstroSnow
       - OreBagOfHolding
       - DeviceQuantumSpinInverter
+      - ClothingShoesBootsJump # Weaselstation
   - type: EmagLatheRecipes
     emagDynamicRecipes:
       - BoxBeanbag
