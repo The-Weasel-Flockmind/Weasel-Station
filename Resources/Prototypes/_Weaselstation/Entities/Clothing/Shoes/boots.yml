@@ -18,8 +18,4 @@
     - ActionGravityJump 
   - type: ItemActionGrant
     actions:
-    - ActionGravityJump 
-  - type: StaticPrice
-    price: 220
-  - type: Tag
-    tags: []
+    - ActionGravityJump
