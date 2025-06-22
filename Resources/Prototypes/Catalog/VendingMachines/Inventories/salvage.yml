@@ -1,4 +1,4 @@
-﻿- type: vendingMachineInventory
+- type: vendingMachineInventory
   id: SalvageEquipmentInventory
   startingInventory:
     Crowbar: 2
@@ -11,7 +11,11 @@
     RadioHandheld: 2
     WeaponGrapplingGun: 4
     WeaponProtoKineticAccelerator: 4
+    # Weaselstation
     SeismicCharge: 2
     FultonBeacon: 1
     Fulton: 2
-    MineralScannerEmpty: 3 # Weaselstation
+    MineralScannerEmpty: 3 
+    # Weaselstation
+  contrabandInventory:
+    PlushieCarp: 1

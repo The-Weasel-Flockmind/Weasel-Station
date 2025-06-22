@@ -13,3 +13,8 @@
   - /Audio/Announcements/RoundEnd/Engrev Cuboos.ogg
   - /Audio/Announcements/RoundEnd/Beepsky Cuboos.ogg
   - /Audio/Announcements/RoundEnd/Wiz Cuboos.ogg
+
+- type: soundCollection
+  id: PowerOn
+  files:
+  - /Audio/Announcements/power_on.ogg
