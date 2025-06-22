@@ -69,19 +69,15 @@ namespace Content.IntegrationTests.Tests
             "Saltern",
             "Reach",
             "Oasis",
-<<<<<<< HEAD
-            "Cog",
-            "Amber",
-            "Uoui", // Weaselstation
-            "Pact" // Weaselstation
-=======
             "Amber",
             "Plasma",
             "Elkridge",
             "Relic",
             "dm01-entryway",
             "Exo",
->>>>>>> upstream
+            "Amber", // Weaselstation
+            "Uoui", // Weaselstation
+            "Pact" // Weaselstation
         };
 
         /// <summary>

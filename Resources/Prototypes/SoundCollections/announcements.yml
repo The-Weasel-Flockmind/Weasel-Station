@@ -4,7 +4,6 @@
   - /Audio/Announcements/RoundEnd/apc_destroyed.ogg
   - /Audio/Announcements/RoundEnd/disappointed.ogg
   - /Audio/Announcements/RoundEnd/notevenpaidforthis.ogg
-<<<<<<< HEAD
 # Custom roundend audio for Weaselstation
   - /Audio/Announcements/RoundEnd/VOXbangindonk.ogg
   - /Audio/Announcements/RoundEnd/bangindonk.ogg
@@ -14,10 +13,8 @@
   - /Audio/Announcements/RoundEnd/Engrev Cuboos.ogg
   - /Audio/Announcements/RoundEnd/Beepsky Cuboos.ogg
   - /Audio/Announcements/RoundEnd/Wiz Cuboos.ogg
-=======
 
 - type: soundCollection
   id: PowerOn
   files:
   - /Audio/Announcements/power_on.ogg
->>>>>>> upstream

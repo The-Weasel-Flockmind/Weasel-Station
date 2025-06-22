@@ -528,13 +528,8 @@
   - type: StationEvent
     earliestStart: 35
     weight: 5.5
-<<<<<<< HEAD
-    minimumPlayers: 15
-    duration: 1
-=======
     minimumPlayers: 20
     duration: null # LoneOpsSpawn needs an infinite duration so that it inherits the NukeOpsRule things of an actually appropriate end scrreen (not always "Neutral outcome!") and... ending the game if the station is nuked.
->>>>>>> upstream
   - type: RuleGrids
   - type: LoadMapRule
     gridPath: /Maps/Shuttles/ShuttleEvent/striker.yml

@@ -11,12 +11,11 @@
     RadioHandheld: 2
     WeaponGrapplingGun: 4
     WeaponProtoKineticAccelerator: 4
-<<<<<<< HEAD
+    # Weaselstation
     SeismicCharge: 2
     FultonBeacon: 1
     Fulton: 2
-    MineralScannerEmpty: 3 # Weaselstation
-=======
+    MineralScannerEmpty: 3 
+    # Weaselstation
   contrabandInventory:
     PlushieCarp: 1
->>>>>>> upstream

@@ -18,12 +18,9 @@
     - id: RubberStampDenied
     - id: RubberStampQm
     - id: AstroNavCartridge
-<<<<<<< HEAD
     - id: SalvageShuttleConsoleCircuitboard
-=======
     - id: ClothingHandsKnuckleDustersQM
     - id: MailTeleporterMachineCircuitboard
->>>>>>> upstream
 
 - type: entity
   id: LockerQuarterMasterFilled

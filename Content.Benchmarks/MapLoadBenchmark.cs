@@ -47,11 +47,7 @@ public class MapLoadBenchmark
         PoolManager.Shutdown();
     }
 
-<<<<<<< HEAD
-    public static readonly string[] MapsSource = { "Empty", "Satlern", "Box", "Bagel", "Dev", "CentComm", "Core", "TestTeg", "Packed", "Omega", "Reach", "Meta", "Marathon", "MeteorArena", "Fland", "Oasis", "Cog", "Uoui", "Pact" }; // Added for Weaselstation
-=======
-    public static readonly string[] MapsSource = { "Empty", "Saltern", "Box", "Bagel", "Dev", "CentComm", "Core", "TestTeg", "Packed", "Omega", "Reach", "Meta", "Marathon", "MeteorArena", "Fland", "Oasis", "Convex"};
->>>>>>> upstream
+    public static readonly string[] MapsSource = { "Empty", "Saltern", "Box", "Bagel", "Dev", "CentComm", "Core", "TestTeg", "Packed", "Omega", "Reach", "Meta", "Marathon", "MeteorArena", "Fland", "Oasis", "Convex", "Uoui", "Pact" }; // Added for Weaselstation
 
     [ParamsSource(nameof(MapsSource))]
     public string Map;
